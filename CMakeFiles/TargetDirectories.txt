@@ -1,0 +1,8 @@
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/zlib/CMakeFiles/zlib.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/zlib/CMakeFiles/zlibstatic.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/zlib/CMakeFiles/example.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/zlib/CMakeFiles/minigzip.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/zlib/CMakeFiles/INSTALL.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/zlib/CMakeFiles/RUN_TESTS.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/zlib/CMakeFiles/ALL_BUILD.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/zlib/CMakeFiles/ZERO_CHECK.dir
